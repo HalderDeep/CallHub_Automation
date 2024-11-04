@@ -1,0 +1,6 @@
+pages/DashboardPage.class
+utils/ConfigReader.class
+base/BasePage.class
+pages/LoginPage.class
+org/example/App.class
+pages/CampaignPage.class
